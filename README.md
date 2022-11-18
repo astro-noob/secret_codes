@@ -1,2 +1,3 @@
 # sectret_codes
-Top Secret! Do not open without top secret clearance from the National Institute of LinkedIn and leetcode Academy of Excellence (NILIlAE)!
+Top Secret!
+I wrote a joke class in python about searching for jobs on LinkedIn and the frustrations that come with it. In the spirit of crappy coding assessments :)
